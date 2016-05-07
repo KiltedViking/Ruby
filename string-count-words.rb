@@ -12,16 +12,19 @@ myArray = myText.split
 #For each string in array - assign string to variable s
 myArray.each { 
     | s | 
+    
+    #Convert to lower case and remove any non-alphanumeric characters
+    str = s.downcase.gsub(/[^a-z ]/, '')
 
-    #Get number of times string (lower case) has occured (so far)    
-    nb = myHash[s.downcase]
+    #Get number of times string has occured (so far)    
+    nb = myHash[str]
 
     #If nb is nil - first time string occured - add with value 1    
     if nb == nil
-        myHash[s.downcase] = 1
+        myHash[str] = 1
     else    #... else increase nb and put back new value
         nb = nb + 1
-        myHash[s.downcase] = nb
+        myHash[str] = nb
     end
 }
 
