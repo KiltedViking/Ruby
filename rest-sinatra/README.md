@@ -1,4 +1,4 @@
-# About project rest-sinatra
+# About project `rest-sinatra`
 
 This is an example I "copied" while watching YouTube video "RESTful APIs in Sinatra" 
 by Envato Tuts+ (https://www.youtube.com/watch?v=d4lxXu7UOwg). The example shows
@@ -13,9 +13,9 @@ Run the example by type command below. The `-Ilib` argument is to tell Ruby to
 include folder "lib" when loading. (I need to learn more Ruby before I can explain.
 ;-))
 
-...
+```
 ruby -Ilib application.rb
-...
+```
 
 ## Thank you to ...
 * Creator of YouTube video!
