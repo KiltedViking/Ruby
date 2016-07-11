@@ -1,18 +1,15 @@
 # kiltedviking/Ruby
 
-<<<<<<< HEAD
-This repository contains
-=======
-This repository contains the result of my attempt to learn Ruby and Ruby on Rails, as well as Git and related things.
->>>>>>> c35f0cd7e3b01112239416e64b15173d5ac1b47f
+This repository contains a mixture of this and that as a result of my attempts to learn.
 
-The repository is a result of my attempt to learn *Ruby*, *Ruby on Rails*, and
-*anything related* to them.
+The repository is a result of my attempt to learn **Ruby**, **Ruby on Rails**,
+and **anything related to Ruby/RoR**, but also **Git**, **markdown**, and **editors 
+and their Git plug-ins** (Atom, Brackets, and VS Code).
 I use this repository to synchronise my test code between my computers (macOS, Windows,
 and Linux) and to document things for future reference, and hopefully for your benifit
 as well! ;-)
 
-Please read comments in each file and/or README.md file in folder for what file 
+Please read comments in each file and/or `README.md` file in folder for what file 
 or projects try to show.
 
 ## Ongoing projects
