@@ -1,6 +1,10 @@
 # kiltedviking/Ruby
 
+<<<<<<< HEAD
 This repository contains
+=======
+This repository contains the result of my attempt to learn Ruby and Ruby on Rails, as well as Git and related things.
+>>>>>>> c35f0cd7e3b01112239416e64b15173d5ac1b47f
 
 The repository is a result of my attempt to learn *Ruby*, *Ruby on Rails*, and
 *anything related* to them.
